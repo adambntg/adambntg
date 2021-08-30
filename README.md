@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adambntg
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Informatics Eng
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram : @adambintang__
 
 <!---
